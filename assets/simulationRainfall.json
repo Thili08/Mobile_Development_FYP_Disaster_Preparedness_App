@@ -1,0 +1,147 @@
+{
+  "code": 0,
+  "data": {
+    "stations": [
+      {
+        "id": "S219",
+        "deviceId": "S219",
+        "name": "Yio Chu Kang Road",
+        "location": {
+          "latitude": 1.37999,
+          "longitude": 103.87643
+        }
+      },
+      {
+        "id": "S216",
+        "deviceId": "S216",
+        "name": "Ang Mo Kio Avenue 10",
+        "location": {
+          "latitude": 1.36019,
+          "longitude": 103.85335
+        }
+      },
+      {
+        "id": "S217",
+        "deviceId": "S217",
+        "name": "Bishan Street 13",
+        "location": {
+          "latitude": 1.35041,
+          "longitude": 103.85526
+        }
+      },
+      {
+        "id": "S214",
+        "deviceId": "S214",
+        "name": "Tanjong Rhu",
+        "location": {
+          "latitude": 1.29911,
+          "longitude": 103.88289
+        }
+      },
+      {
+        "id": "S215",
+        "deviceId": "S215",
+        "name": "Geylang East Central",
+        "location": {
+          "latitude": 1.32785,
+          "longitude": 103.88899
+        }
+      },
+      {
+        "id": "S213",
+        "deviceId": "S213",
+        "name": "Coronation Walk",
+        "location": {
+          "latitude": 1.32427,
+          "longitude": 103.8097
+        }
+      },
+      {
+        "id": "S81",
+        "deviceId": "S81",
+        "name": "Punggol Central",
+        "location": {
+          "latitude": 1.4029,
+          "longitude": 103.9092
+        }
+      },
+      {
+        "id": "S40",
+        "deviceId": "S40",
+        "name": "Mandai Lake Road",
+        "location": {
+          "latitude": 1.4044,
+          "longitude": 103.78962
+        }
+      },
+      {
+        "id": "S84",
+        "deviceId": "S84",
+        "name": "Simei Avenue",
+        "location": {
+          "latitude": 1.3437,
+          "longitude": 103.9444
+        }
+      },
+      {
+        "id": "S44",
+        "deviceId": "S44",
+        "name": "Nanyang Avenue",
+        "location": {
+          "latitude": 1.34583,
+          "longitude": 103.68166
+        }
+      }
+    ],
+    "readings": [
+      {
+        "timestamp": "2025-09-21T02:35:00+08:00",
+        "data": [
+          {
+            "stationId": "S219",
+            "value": 0
+          },
+          {
+            "stationId": "S216",
+            "value": 10
+          },
+          {
+            "stationId": "S217",
+            "value": 20
+          },
+          {
+            "stationId": "S214",
+            "value": 30
+          },
+          {
+            "stationId": "S215",
+            "value": 40
+          },
+          {
+            "stationId": "S213",
+            "value": 50
+          },
+          {
+            "stationId": "S81",
+            "value": 60
+          },
+          {
+            "stationId": "S40",
+            "value": 70
+          },
+          {
+            "stationId": "S84",
+            "value": 80
+          },
+          {
+            "stationId": "S44",
+            "value": 90
+          }
+        ]
+      }
+    ],
+    "readingType": "TB1 Rainfall 5 Minute Total F",
+    "readingUnit": "mm"
+  },
+  "errorMsg": ""
+}
