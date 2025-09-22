@@ -21,7 +21,6 @@ This is a user-centered React Native app to help Singapore residents prepare for
 
 - [Node.js](https://nodejs.org/)
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
-- [Git](https://git-scm.com/)
 
 ### Installation
 
@@ -38,7 +37,7 @@ This is a user-centered React Native app to help Singapore residents prepare for
 
 3. **Start the app:**
    ```sh
-   expo start
+   npx expo start
    ```
 
 4. **Run on your device:**
